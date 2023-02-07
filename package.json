@@ -1,6 +1,6 @@
 {
   "name": "@hanseartic/remark-env-directive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "substitute environment variables in markdown directive plugin for remark",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
   },
   "author": "hanseartic",
   "license": "MIT",
-  "funding": "https://fund.hanseartic.de/#remark-env-directive",
+  "funding": "https://fund.hanseartic.de/?remark-env-directive=15",
   "keywords": [
     "markdown",
     "plugin",
