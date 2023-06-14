@@ -1,6 +1,6 @@
 {
   "name": "@hanseartic/remark-env-directive",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "substitute environment variables in markdown directive plugin for remark",
   "main": "index.js",
   "types": "index.d.ts",
